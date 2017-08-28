@@ -1,0 +1,102 @@
+->: bad badly
+
+->: interest interested
+->: interest interesting
+
+->: relate relation relationship
+
+->: bind binding
+
+->: connect connection
+
+->: note notable
+->: note know
+
+vs: yes no
+
+->: mono monospace
+
+->: increase increment
+->: decrease decrement
+vs: increase decrease
+vs: increment decrement
+
+vs: good bad
+->: good goodness
+
+gp: queue stack
+
+->: drive driver
+
+gp: I you she he it they
+
+gp: me you her him them
+
+vs: there here
+->: there overthere
+
+vs: this that
+
+vs: full empty
+->: full fullness
+gp: hand foot head body
+
+vs: enable disable
+
+->: install uninstall
+
+vs: source destination
+
+->: flow overflow
+
+->: apply application
+gp: bit byte
+->: unit union unify unified
+
+->: browse browser
+
+->: behave behavor
+
+->: share shared
+vs: static dynamic
+
+->: aruge arugment
+
+vs: link unlink
+
+->: normal normally
+
+->: develop developed
+->: develop developping
+
+->: fresh freshness
+vs: easy hard
+->: hard hardy
+
+->: repeat replicate
+->: fix fixed
+->: combine combinator
+->: compute computor
+->: logic logical
+vs: high low
+->: high higher
+->: ord order
+->: function functional
+vs: any all
+vs: many much
+vs: come go
+->: variable value
+->: point pointer
+vs: input output
+vs: same different
+->: return result
+->: set setting
+vs: get set
+->: solve solution
+->: solve resolve
+->: equal equation
+vs: under above
+->: formal formaly
+->: express expression
+->: count counter
+vs: simple complex
