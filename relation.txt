@@ -4,6 +4,7 @@
 ->: interest interesting
 
 ->: relate relation relationship
+->: relative
 
 ->: bind binding
 
@@ -80,6 +81,7 @@ vs: easy hard
 ->: logic logical
 vs: high low
 ->: high higher
+->: high highness
 ->: ord order
 ->: function functional
 vs: any all
@@ -109,9 +111,11 @@ vs: simple complex
 ->: agree disagree
 ->: agree agreement
 ->: sun sunday
+gp: sun moon star
 gp: Sunday Monday Tuesday Thursday Wednesday Friday Saturday
 ->: week weekend
 ->: week weekday
+vs: day night
 ->: perform performance
 ->: busy business
 ->: please pleased
@@ -147,3 +151,45 @@ vs: success fail
 ->: pride proud
 ->: operate opeartor
 ->: guide guidance
+->: lead leader
+->: lead leading
+->: act action
+->: vision
+->: success successor
+->: success successful successfully
+->: fail failure
+->: land landing
+gp: king queen
+->: god godness
+->: fire
+->: sword
+->: ice
+->: water
+->: wolf
+->: watch
+->: flock
+gp: snow rain
+->: rain rainny
+->: flower
+->: die dead
+->: die dying
+->: fun funny
+->: worry worried
+->: less least
+->: able ably
+->: blood bloody
+->: flame flaming
+gp: video audio
+~: fast speed quick
+->: quick quickly
+->: key keyboard
+->: mouse
+->: talk
+->: dark darkness
+->: assume assumuption
+vs: push pop
+gp: second minute hour day month year century
+->: date
+->: monenent
+->: memo memory
+vs: each any

@@ -213,3 +213,4 @@ Game of Throne | 权利的游戏 |
 - guass 高斯
 - euler 欧拉
 - markov 马尔科夫
+- Kolmogorov 柯尔莫哥洛夫
