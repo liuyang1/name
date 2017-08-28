@@ -7,7 +7,7 @@
 
 ->: bind binding
 
-->: connect connection
+->: connect connection connectivity
 
 ->: note notable
 ->: note know
@@ -99,4 +99,51 @@ vs: under above
 ->: formal formaly
 ->: express expression
 ->: count counter
+->: count account
 vs: simple complex
+->: explore explorer
+->: capble capblity
+->: lose loss lost
+->: define definitive
+->: finite infinite
+->: agree disagree
+->: agree agreement
+->: sun sunday
+gp: Sunday Monday Tuesday Thursday Wednesday Friday Saturday
+->: week weekend
+->: week weekday
+->: perform performance
+->: busy business
+->: please pleased
+->: please pleasing
+->: expect expectation
+->: sequence sequentially
+->: grow growth
+->: grow growing
+->: head headwind
+->: up upside
+vs: up down
+->: down downside
+->: most almost
+->: good better best
+->: supply suppliment
+->: market marketing
+->: custom customer
+->: correct correction
+vs: negative postive
+vs: pros cons
+->: speed speedy
+->: sign design
+->: mobile mobility
+->: strong strength
+->: stream streaming
+->: complete complement
+->: motive automotive
+->: sum summary
+->: employ employer
+->: employ employee
+vs: success fail
+->: direct indirect
+->: pride proud
+->: operate opeartor
+->: guide guidance
