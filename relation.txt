@@ -4,7 +4,7 @@
 ->: interest interesting
 
 ->: relate relation relationship
-->: relative
+->: relate relative
 
 ->: bind binding
 
@@ -61,7 +61,7 @@ gp: bit byte
 ->: share shared
 vs: static dynamic
 
-->: aruge arugment
+->: argue argument
 
 vs: link unlink
 
@@ -87,7 +87,7 @@ vs: high low
 vs: any all
 vs: many much
 vs: come go
-->: variable value
+->: vary variable
 ->: point pointer
 vs: input output
 vs: same different
@@ -108,6 +108,7 @@ vs: simple complex
 ->: lose loss lost
 ->: define definitive
 ->: finite infinite
+->: infinite infinitely
 ->: agree disagree
 ->: agree agreement
 ->: sun sunday
@@ -155,6 +156,7 @@ vs: success fail
 ->: lead leading
 ->: act action
 ->: vision
+->: visiable visiablity
 ->: success successor
 ->: success successful successfully
 ->: fail failure
@@ -188,8 +190,26 @@ gp: video audio
 ->: dark darkness
 ->: assume assumuption
 vs: push pop
-gp: second minute hour day month year century
+gp: second minute quarter hour day week month year decade century
+gp: hundred thousand million
 ->: date
-->: monenent
+->: momenent
 ->: memo memory
 vs: each any
+gp: dog cat
+->: cheat cheating
+->: alpha alphabet
+->: observe observable
+->: observe observer
+->: print printer
+->: verbose verbosity
+->: specify specific
+->: port import
+->: port export
+vs: import export
+->: type typically
+->: value
+->: compose composition
+->: integer integeral
+->: compress compression
+gp: local global

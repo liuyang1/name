@@ -214,3 +214,32 @@ Game of Throne | 权利的游戏 |
 - euler 欧拉
 - markov 马尔科夫
 - Kolmogorov 柯尔莫哥洛夫
+
+## 希腊字母
+- alpha
+- beta
+- gamma
+- delta
+- epsilon
+- zeta
+- eta
+- theta
+- itoa
+- kappa
+- lambda
+- mu
+- nu
+- xi
+- omicron
+- pi
+- rho
+- sigma
+- tau
+- upsilon
+- phi
+- chi
+- psi
+- omega
+
+## 圣经
+- Lapis offensionis 绊脚石
