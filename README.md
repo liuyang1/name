@@ -210,10 +210,28 @@ Game of Throne | 权利的游戏 |
 
 ## 数学家
 
-- guass 高斯
-- euler 欧拉
-- markov 马尔科夫
+- Guass 高斯
+- Euler 欧拉
+- Markov 马尔科夫
 - Kolmogorov 柯尔莫哥洛夫
+
+## 物理学家
+- Einstein
+- Newton
+- Hamilton
+- Laplace
+- Lagrange
+- Leibniz
+- Landau
+- Dirac
+
+## 计算机领域
+- Huffmann
+- Alonzo Church
+- Haskell Curry
+
+## 经济学
+- Adam Smith
 
 ## 希腊字母
 - alpha
