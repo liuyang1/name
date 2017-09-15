@@ -212,8 +212,14 @@ Game of Throne | 权利的游戏 |
 
 - Guass 高斯
 - Euler 欧拉
+- Cauchy 柯西
+- Cayley 卡利
 - Markov 马尔科夫
 - Kolmogorov 柯尔莫哥洛夫
+- Cantor
+- Klein
+- Hibert
+- Leibniz
 
 ## 物理学家
 - Einstein
@@ -221,17 +227,19 @@ Game of Throne | 权利的游戏 |
 - Hamilton
 - Laplace
 - Lagrange
-- Leibniz
 - Landau
 - Dirac
 
 ## 计算机领域
+- Turing
 - Huffmann
 - Alonzo Church
 - Haskell Curry
+- Knuth
 
 ## 经济学
 - Adam Smith
+- Keynes
 
 ## 希腊字母
 - alpha
