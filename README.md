@@ -220,6 +220,7 @@ Game of Throne | 权利的游戏 |
 - Klein
 - Hibert
 - Leibniz
+- Simpson
 
 ## 物理学家
 - Einstein
@@ -269,3 +270,49 @@ Game of Throne | 权利的游戏 |
 
 ## 圣经
 - Lapis offensionis 绊脚石
+
+## 地质年代
+
+ref: https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%B4%A8%E5%B9%B4%E4%BB%A3
+
+- Hadean 冥古宙
+    - 隐生代
+    - 盆地群代
+    - 酒海纪
+    - 早雨海世
+- 太古宙
+    - 始太古代
+    - 古太古代
+    - 中太古代
+    - 新太古代
+- 元古宙
+    - 古元古代
+        - 成铁纪
+        - 层侵纪
+        - 造山纪
+        - 固结纪
+    - 中元古代
+        - 盖层纪
+        - 延展纪
+        - 狭带纪
+    - 新元古代
+        - 拉伸纪
+        - 成冰纪
+        - 艾迪卡拉纪
+- 显生宙
+    - 古生代
+        - 寒武纪 Cambrian（威尔士）
+        - 奥陶纪 Ordovician
+        - 志流纪 Silurian
+        - 泥盆纪 Devonian
+        - 石炭纪 Carboniferous
+        - 二叠纪 Permian
+    - 中生代
+        - 三叠纪 Triassic
+        - 侏罗纪 Jurassic
+        - 白垩纪 Cretaceous
+    - 新生代
+        - 第三纪 Tertiary 废止？
+        - 古近纪
+        - 新近纪
+        - 第四纪 Quaternary
