@@ -79,9 +79,40 @@ violet     | 紫罗兰  |
 
 ## 动物
 
-动物  | comment |
-------|---------|
-sheep | 羊      |
+动物      | comment  |
+----------|----------|
+sheep     | 羊       |
+beaver    | 河狸     |
+fog       | 青蛙     |
+bird      | 鸟       |
+tiger     | 老虎     |
+lion      | 狮子     |
+ox        | 公牛     |
+fox       | 狐狸     |
+panda     | 熊猫     |
+bear      | 熊       |
+woof      | 狼       |
+dog       | 狗       |
+cat       | 猫       |
+mouse     | 老鼠     |
+butterfly | 蝴蝶     |
+fly       | 蝇       |
+mosquito  | 蚊       |
+fish      |          |
+dolphin   |          |
+swan      |          |
+goose     |          |
+duck      |          |
+chichen   |          |
+hen       |          |
+rooster   |          |
+eagle     |          |
+monkey    |          |
+snake     |          |
+bunny     | 兔子昵称 |
+dragon    |          |
+horse     |          |
+pig       |          |
 
 ## 金属
 
@@ -99,7 +130,7 @@ red             | 红      |
 green           | 绿      |
 pink            | 粉红    |
 garnet          | 石榴红  |
-cyan            |         |
+cyan            | 青      |
 purple          | 紫      |
 yellow          | 黄      |
 orange          | 桔黄    |
@@ -107,6 +138,7 @@ blue            | 蓝      |
 azure, sky blue | 天蓝    |
 white           |         |
 black           |         |
+grey            | 灰色    |
 brown           | 棕色    |
 
 ## 地理
@@ -224,6 +256,8 @@ Game of Throne | 权利的游戏 |
 - Simpson 辛普森
 - Minkowski 闵科夫斯基
 - Riemann 黎曼
+- Lebesgue 勒贝格
+- Abel 阿贝尔
 
 ## 物理学家
 - Einstein 爱因斯坦
@@ -334,3 +368,11 @@ ref: https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%B4%A8%E5%B9%B4%E4%BB%A3
             - 更新世
             - 全新世
             - 人类世
+
+
+## 俚语 惯用法
+- lazy susan 餐桌转盘
+
+## 回文 palindrome
+- "Madam, I'm Adam"
+- "Doc, note I dissent. A fast never prevents a fatness. I diet on cod."
