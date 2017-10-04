@@ -188,6 +188,7 @@ ref: http://baike.sogou.com/v64405245.htm
 - rain, rainny 雨
 - sun, sunny 晴朗
 - storm 风暴
+- cloudy
 
 ## 地球历史
 
@@ -199,9 +200,9 @@ ref: http://baike.sogou.com/v64405245.htm
 
 ## Book 书
 
-Book | comment |
------|---------|
-GEB  | 集异璧  |
+Book           | comment    |
+---------------|------------|
+GEB            | 集异璧     |
 Game of Throne | 权利的游戏 |
 
 ## 爵位
@@ -216,32 +217,36 @@ Game of Throne | 权利的游戏 |
 - Cayley 卡利
 - Markov 马尔科夫
 - Kolmogorov 柯尔莫哥洛夫
-- Cantor
-- Klein
-- Hibert
-- Leibniz
-- Simpson
+- Cantor 康托尔
+- Klein 克莱因
+- Hibert 希尔伯特
+- Leibniz 莱布尼茨
+- Simpson 辛普森
+- Minkowski 闵科夫斯基
+- Riemann 黎曼
 
 ## 物理学家
-- Einstein
-- Newton
-- Hamilton
-- Laplace
-- Lagrange
-- Landau
+- Einstein 爱因斯坦
+- Newton 牛顿
+- Hamilton 汉密尔顿
+- Laplace 拉普拉斯
+- Lagrange 朗格朗日
+- Landau 朗道
 - Dirac
+- Pauli 泡利
+- Avogadro 阿伏伽德罗
 
 ## 计算机领域
-- Turing
-- Huffmann
-- Alonzo Church
-- Haskell Curry
+- Turing 图灵
+- Huffmann 霍夫曼
+- Alonzo Church 丘奇
+- Haskell Curry 柯里
 - Knuth
 
 ## 经济学
-- Adam Smith
-- Keynes
-- Coase
+- Adam Smith 亚当斯密
+- Keynes 凯恩斯
+- Coase 科斯
 
 ## 希腊字母
 - alpha
