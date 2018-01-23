@@ -243,21 +243,23 @@ Game of Throne | 权利的游戏 |
 
 ## 数学家
 
-- Guass 高斯
-- Euler 欧拉
+- Abel 阿贝尔
+- Cantor 康托尔
 - Cauchy 柯西
 - Cayley 卡利
-- Markov 马尔科夫
-- Kolmogorov 柯尔莫哥洛夫
-- Cantor 康托尔
-- Klein 克莱因
+- Guass 高斯
+- Euler 欧拉
+- Fermat 费马
 - Hibert 希尔伯特
-- Leibniz 莱布尼茨
-- Simpson 辛普森
-- Minkowski 闵科夫斯基
-- Riemann 黎曼
+- Kolmogorov 柯尔莫哥洛夫
+- Klein 克莱因
 - Lebesgue 勒贝格
-- Abel 阿贝尔
+- Leibniz 莱布尼茨
+- Markov 马尔科夫
+- Minkowski 闵科夫斯基
+- Simpson 辛普森
+- Stirling
+- Riemann 黎曼
 
 ## 物理学家
 - Einstein 爱因斯坦
@@ -271,7 +273,7 @@ Game of Throne | 权利的游戏 |
 - Avogadro 阿伏伽德罗
 
 ## 计算机领域
-- Turing 图灵
+- Alan Turing 图灵
 - Huffmann 霍夫曼
 - Alonzo Church 丘奇
 - Haskell Curry 柯里
@@ -281,6 +283,10 @@ Game of Throne | 权利的游戏 |
 - Adam Smith 亚当斯密
 - Keynes 凯恩斯
 - Coase 科斯
+
+## Painter
+
+- Vermeer 维米尔
 
 ## 希腊字母
 - alpha
@@ -376,3 +382,26 @@ ref: https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%B4%A8%E5%B9%B4%E4%BB%A3
 ## 回文 palindrome
 - "Madam, I'm Adam"
 - "Doc, note I dissent. A fast never prevents a fatness. I diet on cod."
+
+## Artifact
+
+- jerky
+- sawtooth 锯齿
+- glitch 刻奇
+- flick
+
+## level
+
+- Beginner
+- Novice 初学者
+- Competent 胜任
+- Proficent 精通
+
+## poker 扑克牌
+- Ace
+- King
+- Queen
+- Jack
+- Ten
+- Spades, Hearts, Diamonds, Clubs
+- Win, Loss, Tie
