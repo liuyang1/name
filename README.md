@@ -247,14 +247,17 @@ Game of Throne | 权利的游戏 |
 - Cantor 康托尔
 - Cauchy 柯西
 - Cayley 卡利
+- Galois
 - Guass 高斯
 - Euler 欧拉
 - Fermat 费马
 - Hibert 希尔伯特
+- Jordan 约当
 - Kolmogorov 柯尔莫哥洛夫
 - Klein 克莱因
 - Lebesgue 勒贝格
 - Leibniz 莱布尼茨
+- Logistic 罗杰斯蒂
 - Markov 马尔科夫
 - Minkowski 闵科夫斯基
 - Simpson 辛普森
@@ -262,14 +265,16 @@ Game of Throne | 权利的游戏 |
 - Riemann 黎曼
 
 ## 物理学家
+- Dirac 狄拉克
 - Einstein 爱因斯坦
 - Newton 牛顿
 - Hamilton 汉密尔顿
+- Huygens
 - Laplace 拉普拉斯
 - Lagrange 朗格朗日
 - Landau 朗道
-- Dirac
 - Pauli 泡利
+- Planck 普朗克
 - Avogadro 阿伏伽德罗
 
 ## 计算机领域
