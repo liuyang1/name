@@ -247,6 +247,7 @@ Game of Throne | 权利的游戏 |
 - Cantor 康托尔
 - Cauchy 柯西
 - Cayley 卡利
+- Diophantine 丢番图
 - Galois
 - Guass 高斯
 - Euler 欧拉
