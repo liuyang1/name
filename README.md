@@ -241,7 +241,7 @@ Game of Throne | 权利的游戏 |
 
 ## 电影
 
-## 数学家
+## 数学家 Mathmatician
 
 - Abel 阿贝尔
 - Cantor 康托尔
@@ -251,6 +251,7 @@ Game of Throne | 权利的游戏 |
 - Galois
 - Guass 高斯
 - Euler 欧拉
+- Fairy
 - Fermat 费马
 - Hibert 希尔伯特
 - Jordan 约当
@@ -265,7 +266,8 @@ Game of Throne | 权利的游戏 |
 - Stirling
 - Riemann 黎曼
 
-## 物理学家
+## 物理学家 Physicist
+- Ampere 安培
 - Dirac 狄拉克
 - Einstein 爱因斯坦
 - Newton 牛顿
@@ -411,3 +413,30 @@ ref: https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%B4%A8%E5%B9%B4%E4%BB%A3
 - Ten
 - Spades, Hearts, Diamonds, Clubs
 - Win, Loss, Tie
+
+## bird
+
+- buzzard
+- cuckoo
+- dove
+- eagle
+- flamingo
+- hawk
+- heron
+- kingfisher
+- magpie
+- nightnagle
+- owl
+- pheasant
+- pigeon
+- raven
+- robin
+- seagull
+- sparrow
+- stork
+- swallow
+- swan
+- thrush
+- woodpecker
+- wren
+- vulture
