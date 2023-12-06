@@ -262,6 +262,7 @@ Game of Throne | 权利的游戏 |
 - Logistic 罗杰斯蒂
 - Markov 马尔科夫
 - Minkowski 闵科夫斯基
+- Meissen
 - Simpson 辛普森
 - Stirling
 - Riemann 黎曼
