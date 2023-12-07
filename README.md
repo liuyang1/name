@@ -253,7 +253,7 @@ Game of Throne | 权利的游戏 |
 - Euler 欧拉
 - Fairy
 - Fermat 费马
-- Hibert 希尔伯特
+- Hilbert 希尔伯特
 - Jordan 约当
 - Kolmogorov 柯尔莫哥洛夫
 - Klein 克莱因
