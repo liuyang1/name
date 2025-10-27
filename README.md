@@ -269,6 +269,7 @@ Game of Throne | 权利的游戏 |
 
 ## 物理学家 Physicist
 - Ampere 安培
+- Avogadro 阿伏伽德罗
 - Dirac 狄拉克
 - Einstein 爱因斯坦
 - Newton 牛顿
@@ -277,9 +278,9 @@ Game of Throne | 权利的游戏 |
 - Laplace 拉普拉斯
 - Lagrange 朗格朗日
 - Landau 朗道
+- Kirchhoff 吉姆霍夫
 - Pauli 泡利
 - Planck 普朗克
-- Avogadro 阿伏伽德罗
 
 ## 计算机领域
 - Alan Turing 图灵
@@ -441,3 +442,55 @@ ref: https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%B4%A8%E5%B9%B4%E4%BB%A3
 - woodpecker
 - wren
 - vulture
+
+## name in English
+
+Boy
+
+- Jacob, coby, Jake
+- William: Bill, Will, Liam
+- Alexander: Al, Alex, Xander
+- Benjamin: Ben, Benji
+- James: Jay, Jim, Jimmy, Jamie
+- Daniel: Danny, Dan, Dane
+- Samuel: Sam, Sammy
+- Joseph: Joe, Joey
+- Andrwe: Drwe, Andy
+- David: Davey, Dave
+- Robert: Rob, Robbie, Bob, Bert
+- Michael: Mike, Mikey, Mickey
+- Theodore: Theo, Teddy, Ted, Tad
+- Charles: Charlie, Chad, Chuck
+- Jayden: Jay, Jade
+- Henry: Hank, Harry
+- Jonathan: John, Jonny, Nate, Jack
+- Thomas: Tom, Tommy
+- Nathaniel: Nathan, Nate
+- Leonardo: Leo, Len, Leon
+
+Girl
+
+- Sophia: Fifi, Sophie, Soph
+- Elizabeth, LIz, Eliza, Libby, Betsy, Beth, Ellie
+- Abigail: Abby, Gale, Gail
+- Isabella: Belle, Bella, Ella, Izzy
+- Patricia: pat, Patty, Patsy, Tricia
+- Victoria: Tori, Vicki, Vic
+- Katherine: Kate, Katie, Kathy, Kat
+- Allison: Allyssa, Alli, Alice
+- Samantha: Sam, Sami
+- Stephanie: Steph, Steffi, Stevie
+- Jennifer, Jen, Jenny, Jenna
+- Alexandria: Alexa, Lexi, Sandra, Sandie, Ally, Alex
+- Kimberly: Kim, Kimmie
+- Rebecca, Reba, Becca, Becki
+- Margaret: Peggy, Peg, Maggie, Meg, Margo
+
+Confidential Level
+
+- No Log
+- Loggable
+- Public
+- Confidential
+- High Confidential
+- Critical
