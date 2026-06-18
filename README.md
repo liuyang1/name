@@ -244,28 +244,37 @@ Game of Throne | 权利的游戏 |
 ## 数学家 Mathmatician
 
 - Abel 阿贝尔
-- Cantor 康托尔
+- Cantor 康托尔 集合论
+- Cardan 卡丹,卡尔丹 一元三次方程的公式解
 - Cauchy 柯西
 - Cayley 卡利
+- Dedekind 戴德金 严格的实数理论
+- Descartes 笛卡尔 坐标系等
 - Diophantine 丢番图
-- Galois
+- Galois 伽罗瓦 一元多项式方程的公式解的存在性
 - Guass 高斯
 - Euler 欧拉
 - Fairy
 - Fermat 费马
-- Hilbert 希尔伯特
+- Hilbert 希尔伯特 ++
 - Jordan 约当
 - Kolmogorov 柯尔莫哥洛夫
 - Klein 克莱因
-- Lebesgue 勒贝格
+- Lebesgue 勒贝格 勒贝格测度,勒贝格积分
 - Leibniz 莱布尼茨
 - Logistic 罗杰斯蒂
 - Markov 马尔科夫
 - Minkowski 闵科夫斯基
 - Meissen
+- Newton 牛顿 微积分
+- Poincare 庞加莱
+- Pythagoras 毕达哥拉斯 勾股定理
 - Simpson 辛普森
 - Stirling
 - Riemann 黎曼
+- Russell 罗素 集合论的罗素悖论
+- Weierstrass 维尔斯特拉斯 极限的严格定义
+- Zermelo 策梅洛 ZFC 形式化集合论的公理体系
 
 ## 物理学家 Physicist
 - Ampere 安培
